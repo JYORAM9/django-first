@@ -2,6 +2,8 @@ branch-defaults:
   default:
     environment: DjangoTutorial-env
     group_suffix: null
+  master:
+    environment: DjangoTutorial-env
 environment-defaults:
   DjangoTutorial-env:
     branch: null
